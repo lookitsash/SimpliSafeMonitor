@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<Processors>
+		<MonitorProcessor
+			GroupName=""
+			SettingsRefreshIntervalMs="-1"
+			PulseIntervalMs="5000"
+			WorkerIntervalMs="-1"
+			MaximumWorkerThreads="0"
+			MaximumWorkerThreadsIsProcessorCountMultipler="False"
+			MaximumCpuPercent="-1"
+			DisableLogging="False"
+			VerboseLogging="False" />
+	</Processors>
+</Settings>
